@@ -221,3 +221,19 @@ AND, OR
 # Daxil edilmis sozun uzunlugu tekdirse ortadaki herfi
 # Daxil edilmis sozun uzunlugu cutdurse ortadaki 2 herfi
 # cap etmek
+
+
+# word = input('Enter the word')
+#
+# if len(word) % 2 == 0:
+#     print(word[len(word)//2-1: len(word)//2 + 1]) # defter
+# else:
+#     print(word[len(word)//2])
+
+
+# Istifadeciden cumle aliriq, hemin cumlede nece eded @ isaresi oldugunu tapiriq
+# EDILDI
+
+
+
+
